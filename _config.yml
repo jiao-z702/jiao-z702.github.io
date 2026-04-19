@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yingjiao Zhou"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/avatar.jpg"
   bio              : "Software Engineering"
   location         : "Harbin, China"
   employer         : "Harbin Engineering University"
