@@ -51,6 +51,16 @@ The website is published at [https://jiao-z702.github.io](https://jiao-z702.gith
    git push -u origin main
    ```
 
+## Deployment
+
+Pushing to `main` automatically builds and deploys the site through the
+`Deploy website to GitHub Pages` workflow. In the repository settings, select
+**Settings → Pages → Build and deployment → Source → GitHub Actions** once.
+
+The Google Scholar updater is optional. To enable it, add a repository Actions
+secret named `GOOGLE_SCHOLAR_ID`. If the secret is absent, the scheduled updater
+finishes successfully without changing the website.
+
 ## Acknowledgements
 
 - This website is built using the [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) template, which is distributed under the MIT License.

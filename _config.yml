@@ -9,6 +9,8 @@
 title                    : "Yingjiao Zhou"
 description              : "Undergraduate student in Software Engineering at Harbin Engineering University, research direction: Application of diffusion probabilistic models in computer vision and computational imaging."
 repository               : "jiao-z702/jiao-z702.github.io"
+url                      : "https://jiao-z702.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics
